@@ -4,10 +4,14 @@ Olá, seja bem vindo(a)!<br>
 Eu sou a Rebeca,<br> 
 estudante em formação na area de Tecnologia da Informação.
 
+## Meu Portfólio
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=CE1E76)](https://rebecajsilva.github.io/meuportfolio/)
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE1E76)](https://www.linkedin.com/in/rebeca-juliana-da-silva-1a66b62b8/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=CE1E76)](https://www.instagram.com/rebecaajuli/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE1E76)](mailto:rebecajsilva.contatos@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE1E76)](mailto:rebecaj.contato@gmail.com)
 
 ## Habilidades(Linguagens de Programação)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
