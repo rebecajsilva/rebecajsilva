@@ -6,7 +6,7 @@ estudante em formação na area de Tecnologia da Informação.
 
 ## Meu Portfólio
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=CE1E76)](https://rebecajsilva.github.io/meuportfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=CE1E76)](https://rebecajsilva.github.io/rebecaportfolio/)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE1E76)](https://www.linkedin.com/in/rebeca-juliana-da-silva-1a66b62b8/)
