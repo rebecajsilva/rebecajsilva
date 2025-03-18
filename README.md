@@ -2,7 +2,7 @@
 
 Olá, seja bem vindo(a)!<br>
 Eu sou a Rebeca,<br> 
-estudante em formação na area de Tecnologia da Informação.
+Formada como Tecnica em Informatica e estudante de Ciencia da Computacao.
 
 
 
